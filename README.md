@@ -1,0 +1,2 @@
+# LswsRepo
+Litespeed installation
